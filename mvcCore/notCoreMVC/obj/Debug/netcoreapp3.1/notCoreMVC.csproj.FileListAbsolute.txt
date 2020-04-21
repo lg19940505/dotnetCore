@@ -158,7 +158,6 @@ F:\个人项目2020\netcore\dotnetCore\mvcCore\notCoreMVC\bin\Debug\netcoreapp3.
 F:\个人项目2020\netcore\dotnetCore\mvcCore\notCoreMVC\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
 F:\个人项目2020\netcore\dotnetCore\mvcCore\notCoreMVC\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
 F:\个人项目2020\netcore\dotnetCore\mvcCore\notCoreMVC\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
-F:\个人项目2020\netcore\dotnetCore\mvcCore\notCoreMVC\obj\Debug\netcoreapp3.1\notCoreMVC.MvcApplicationPartsAssemblyInfo.cache
 F:\个人项目2020\netcore\dotnetCore\mvcCore\notCoreMVC\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Create.cshtml.g.cs
 F:\个人项目2020\netcore\dotnetCore\mvcCore\notCoreMVC\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Delete.cshtml.g.cs
 F:\个人项目2020\netcore\dotnetCore\mvcCore\notCoreMVC\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Details.cshtml.g.cs
